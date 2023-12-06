@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VS programs\\SAMOUCHEBA\\Post_Soviet_RPG\\Post_Soviet_RPG\\Post_Soviet_RPG.csproj": {}
+    "C:\\Users\\Станіслав\\RiderProjects\\Post_Soviet_RPG\\Post_Soviet_RPG\\Post_Soviet_RPG\\Post_Soviet_RPG.csproj": {}
   },
   "projects": {
-    "D:\\VS programs\\SAMOUCHEBA\\Post_Soviet_RPG\\Post_Soviet_RPG\\Post_Soviet_RPG.csproj": {
+    "C:\\Users\\Станіслав\\RiderProjects\\Post_Soviet_RPG\\Post_Soviet_RPG\\Post_Soviet_RPG\\Post_Soviet_RPG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VS programs\\SAMOUCHEBA\\Post_Soviet_RPG\\Post_Soviet_RPG\\Post_Soviet_RPG.csproj",
+        "projectUniqueName": "C:\\Users\\Станіслав\\RiderProjects\\Post_Soviet_RPG\\Post_Soviet_RPG\\Post_Soviet_RPG\\Post_Soviet_RPG.csproj",
         "projectName": "Post_Soviet_RPG",
-        "projectPath": "D:\\VS programs\\SAMOUCHEBA\\Post_Soviet_RPG\\Post_Soviet_RPG\\Post_Soviet_RPG.csproj",
+        "projectPath": "C:\\Users\\Станіслав\\RiderProjects\\Post_Soviet_RPG\\Post_Soviet_RPG\\Post_Soviet_RPG\\Post_Soviet_RPG.csproj",
         "packagesPath": "C:\\Users\\Станіслав\\.nuget\\packages\\",
-        "outputPath": "D:\\VS programs\\SAMOUCHEBA\\Post_Soviet_RPG\\Post_Soviet_RPG\\obj\\",
+        "outputPath": "C:\\Users\\Станіслав\\RiderProjects\\Post_Soviet_RPG\\Post_Soviet_RPG\\Post_Soviet_RPG\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Станіслав\\AppData\\Roaming\\NuGet\\NuGet.Config",
